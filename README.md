@@ -37,14 +37,14 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ##  Features
 
-### 📊 Dashboard Overview
+###  Dashboard Overview
 - Real-time summary of Total Balance, Income, and Expenses
 - Balance Trend visualization using Line Chart
 - Spending Breakdown using Pie Chart
 
 ---
 
-### 💳 Transactions Section
+###  Transactions Section
 - View transaction details:
   - Date
   - Category
@@ -79,7 +79,7 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ---
 
-### 🌙 Dark Mode
+###  Dark Mode
 - Toggle between Light and Dark themes
 - Fully responsive and consistent UI across themes
 
@@ -92,7 +92,7 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ---
 
-### ✨ UI/UX Enhancements
+###  UI/UX Enhancements
 - Smooth animations and transitions
 - Clean and modern design
 - Fully responsive across desktop, tablet, and mobile devices
@@ -177,7 +177,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗  [](https://finance-dashboard-ui-sand-ten.vercel.app/) ](https://finance-dashboard-ui-sand-ten.vercel.app/)
+🔗  [(https://finance-dashboard-ui-sand-ten.vercel.app/) ](https://finance-dashboard-ui-sand-ten.vercel.app/)
 
 
 
