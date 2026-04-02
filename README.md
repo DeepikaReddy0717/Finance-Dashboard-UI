@@ -137,15 +137,17 @@ src/
 
  
 - Dashboard View  
-![Dashboard](image-2.png)
-- Viewer Panel
-![Viwer page](image.png)
+<img width="1900" height="937" alt="image" src="https://github.com/user-attachments/assets/d472924f-56b8-4724-8065-144b38f2a269" />
+
 - Transactions Page  
-![Transtion page](image-3.png)
+<img width="1918" height="934" alt="image" src="https://github.com/user-attachments/assets/748a4f04-85d3-460c-a669-806cf74c04fa" />
+
 - Admin Panel
-![Admin page](image-1.png)
+<img width="1911" height="986" alt="image" src="https://github.com/user-attachments/assets/3f45df8d-8f6f-431e-865b-28a241470fa7" />
+
 -Dark mode
-![alt text](image-4.png)
+<img width="1884" height="886" alt="image" src="https://github.com/user-attachments/assets/03714a8d-8e35-494a-b314-83edc3287a7c" />
+
 
 ---
 
@@ -175,9 +177,9 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 https://your-live-link.com  
+🔗  [](https://finance-dashboard-ui-sand-ten.vercel.app/) ](https://finance-dashboard-ui-sand-ten.vercel.app/)
 
-*(Deploy using Vercel or Netlify and paste your link here)*
+
 
 ---
 
