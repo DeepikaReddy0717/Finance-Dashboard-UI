@@ -1,17 +1,17 @@
 # 💰 Finance Dashboard UI
 
-## 📌 Overview
+##  Overview
 
 The Finance Dashboard UI is a responsive and interactive web application built using React and Tailwind CSS.  
 It enables users to monitor financial activity, analyze spending patterns, and manage transactions efficiently through a modern and intuitive interface.
 
-> 🚀 Built with a focus on scalability, clean UI/UX, and real-world financial data interaction.
+>  Built with a focus on scalability, clean UI/UX, and real-world financial data interaction.
 
 This project emphasizes frontend architecture, reusable components, and effective state management using the Context API.
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 The application follows a modular, component-driven architecture to ensure scalability, reusability, and maintainability.
 
@@ -35,7 +35,7 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 📊 Dashboard Overview
 - Real-time summary of Total Balance, Income, and Expenses
@@ -72,7 +72,7 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ---
 
-### 📈 Insights
+###  Insights
 - Highest spending category detection
 - Monthly financial comparison
 - Smart observations based on transaction data
@@ -85,7 +85,7 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ---
 
-### 📥 Export Functionality
+###  Export Functionality
 - Export transaction data as:
   - CSV
   - JSON
@@ -99,7 +99,7 @@ The application follows a modular, component-driven architecture to ensure scala
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js  
 - Tailwind CSS  
@@ -133,7 +133,7 @@ src/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
  
 - Dashboard View  
@@ -151,7 +151,7 @@ src/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -183,14 +183,14 @@ npm run dev
 
 ---
 
-## 📱 Responsiveness
+##  Responsiveness
 
 - Fully responsive design  
 - Optimized for desktop, tablet, and mobile devices  
 
 ---
 
-## 💡 Highlights
+##  Highlights
 
 - Clean and modular architecture  
 - Role-based UI design  
@@ -201,7 +201,7 @@ npm run dev
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Backend integration  
 - Authentication system  
@@ -211,7 +211,7 @@ npm run dev
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Deepika Reddy**  
 - Frontend Developer  
